@@ -13,7 +13,7 @@
 ![Microsoft Windows 10](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Microsoft%20Windows&logoColor=microsoft-windows)
 
 # IaaS
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=White)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # Methodologies
