@@ -8,9 +8,9 @@
 ### **Technical Skills & Experience:**
 
 # Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Microsoft Windows 10](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Microsoft%20Windows&logoColor=microsoft-windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # IaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,27 +27,24 @@
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MONGODB](https://img.shields.io/badge/-MONGODB-4479A1?style=flat&logo=MONGODB&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
-![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
-![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 # Languages and IDEs
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
 
 
