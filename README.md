@@ -1,7 +1,5 @@
 # Hello there! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zilamo-farik-8b39a4230/)
-
 ### Graduated at University College London (UCL) with a BSc in the division of biosciences.
 ### Currently a junior DevOps consultant at SpartaGlobal.
 
@@ -52,6 +50,7 @@
 - 📫 How to reach me: zilamo.fariks@gmail.com.
 - 🌱 I’m currently learning microservices architecture.
 - ⚡ Fun fact: I am a lifelong piano player, and plan to keep it that way!
+- My LinkedIn profile: ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zilamo-farik-8b39a4230/)
 
 ### Vistitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/armaanjasim/count.svg)
