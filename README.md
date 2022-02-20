@@ -2,7 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/armaan-alam-93784219b/)
 
-### Biomed graduate from University College London, currently a junior DevOps consultant at SpartaGlobal.
+### Graduated at University College London (UCL) with a BSc in the division of biosciences.
+### Currently a junior DevOps consultant at SpartaGlobal.
 
 ### **Technical Skills & Experience:**
 
