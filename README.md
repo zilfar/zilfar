@@ -53,4 +53,4 @@
 - 💬 My LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zilamo-farik-8b39a4230/)
 
 ### Vistitor Counter
-![Visitor Count](https://profile-counter.glitch.me/armaanjasim/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zilfar/count.svg)
